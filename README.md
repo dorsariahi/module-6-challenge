@@ -3,8 +3,8 @@
 # Table of Content
 * [Description](https://github.com/dorsariahi/module-6-challenge#Description)
 * [Website view](https://github.com/dorsariahi/module-6-challenge#Website-view)
-*
-*
+* [Built With](https://github.com/dorsariahi/module-6-challenge#Built-with)
+* [Deployed Link](https://github.com/dorsariahi/module-6-challenge#Deployed-Link)
 * [Contact](https://github.com/dorsariahi/module-6-challenge#Contact)
 # Description
 
