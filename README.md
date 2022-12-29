@@ -2,6 +2,9 @@
 # module-6-challenge
 # Table of Content
 * [Description](https://github.com/dorsariahi/module-6-challenge#Description)
+* [Website view](https://github.com/dorsariahi/module-6-challenge#Website-view)
+*
+*
 * [Contact](https://github.com/dorsariahi/module-6-challenge#Contact)
 # Description
 
