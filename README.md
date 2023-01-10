@@ -17,7 +17,7 @@ Third-party APIs allow developers to access their data and functionality by maki
 - [x] HTML
 - [x] JS
 ### Deployed Link
-* [Deployed Link](https://dorsariahi.github.io/module-6-challenge/)
+* [Take a look at the website](https://dorsariahi.github.io/module-6-challenge/)
 ### Contact
 If you have any questions you can contact me at my email, dorsariahiasl@gmail.com or take a look at my most recent projects at www.github.com/dorsariahi
 - - - -
