@@ -23,3 +23,7 @@ var formSubmitHandler = function (event) {
     saveSearch();
     pastSearch(city);
 }
+
+var saveSearch = function () {
+    localStorage.setItem("cities", JSON.stringify(cities));
+};
