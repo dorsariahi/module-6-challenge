@@ -133,3 +133,14 @@ var pastSearch = function (pastSearch) {
 
     pastSearchButtonEl.prepend(pastSearchEl);
 }
+
+var pastSearchHandler = function (event) {
+    var city = event.target.getAttribute("data-city")
+    if (city) {
+        getCityWeather(city);
+        get5Day(city);
+    }
+}
+
+cityFormEl.addEventListener("submit", formSubmitHandler);
+pastSearchButtonEl.addEventListener("click", pastSearchHandler);
